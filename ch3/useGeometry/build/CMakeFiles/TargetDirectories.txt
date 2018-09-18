@@ -1,0 +1,3 @@
+/home/hanwenkai/桌面/slambook/ch3/useGeometry/build/CMakeFiles/edit_cache.dir
+/home/hanwenkai/桌面/slambook/ch3/useGeometry/build/CMakeFiles/rebuild_cache.dir
+/home/hanwenkai/桌面/slambook/ch3/useGeometry/build/CMakeFiles/usegeometry.dir
